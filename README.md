@@ -1,4 +1,4 @@
-# threex.math
+# threex.cannon-math
 
 **Experimental** polyfill to merge three.js and cannon.js Vector3/Vec3 with functionlity from the other, so that no conversion of objects is needed between libraries.
 
